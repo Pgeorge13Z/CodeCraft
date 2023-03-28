@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiongjiezhu/projects/HuaWei2023/CodeCraft/LinuxRelease/SDK/c++/main.cpp
+stdio.h
+-
+string.h
+-
+math.h
+-
+vector
+-
+map
+-
+bitset
+-
+iostream
+-
+set
+-
+algorithm
+-
+
